@@ -1,0 +1,6 @@
+*.swp
+*.swo
+/bin
+/pkg
+/src/github.com
+/src/golang.org
